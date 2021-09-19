@@ -1,0 +1,28 @@
+
+    <section class="our-blog">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="heading">
+                        <h2>Our blog post</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div *ngFor="let p of posts" class="col-md-6">
+                    <div class="blog-post">
+                        <img class="slika" src="assets/img/{{p.image}}" alt="">
+                        <div class="date">{{p.date | date}}</div>
+                        <div class="right-content">
+                            <h4>{{p.title}}</h4>
+                            <span>&nbsp;</span>
+                            <p>{{p.text | textTrim}}</p>
+                            <div class="text-button">
+                                <a routerLink="/blog/{{p.id}}">Continue Reading</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>

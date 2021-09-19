@@ -1,0 +1,31 @@
+<section class="breakfast-menu">
+    <div class="container">
+        <div class="row">
+            <div *ngFor="let c of categories" class="col-md-10 col-md-offset-1 my">
+                <div class="breakfast-menu-content">
+                    <div class="row">
+                        <div class="col-md-5">
+                            <div class="left-image">
+                                <img src="../../assets/img/{{c.image2}}" alt="Breakfast">
+                            </div>
+                        </div>
+                        <div class="col-md-7">
+                            <h2>{{c.name}}</h2>
+                            <div class="d-flex">
+                                <div *ngFor="let m of c.meals" class="item col-md-6">
+                                    <div class="food-item">
+                                        <img class="img-fluid" src="../../assets/img/{{m.image}}" alt="">
+                                        <div class="price">{{m.price | currency}}</div>
+                                        <div class="text-content">
+                                            <h4>{{m.name}}</h4>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

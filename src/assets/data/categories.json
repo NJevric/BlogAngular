@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "name":"Breakfast",
+        "image":"cook_breakfast.png",
+        "image2":"breakfast_menu.jpg",
+        "meals":[
+            {
+                "id":1,
+                "name":"Party Platter Big Mouth® Bites",
+                "image":"burger.jpg",
+                "price":11.75
+            }, 
+            {
+                "id":2,
+                "name":"Party Platter Southwestern Eggrolls",
+                "image":"eggrolls.jpg",
+                "price":15
+            }
+        ]
+    },
+    {
+        "id":2,
+        "name":"Lunch",
+        "image":"cook_lunch.png",
+        "image2":"lunch_menu.jpg",
+        "meals":[
+            {
+                "id":1,
+                "name":"Ancho Salmon",
+                "image":"salmon.jpg",
+                "price":25
+            }, 
+            {
+                "id":2,
+                "name":"Grilled Chicken Salad",
+                "image":"chickenSalad.jpg",
+                "price":22.22
+            }
+        ]
+    },
+    {
+        "id":3,
+        "name":"Dinner",
+        "image":"cook_dinner.png",
+        "image2":"dinner_menu.jpg",
+        "meals":[
+            {
+                "id":1,
+                "name":"Cajun Shrimp Pasta",
+                "image":"chicken.jpg",
+                "price":22.55
+            },
+            {
+                "id":2,
+                "name":"Chicken Fresh Mex",
+                "image":"chipotle.jpg",
+                "price":21.75
+            }
+        ]
+    },
+    {
+        "id":4,
+        "name":"Desserts",
+        "image":"cook_dessert.png",
+        "image2":"desserts.jpeg",
+        "meals":[
+            {
+                "id":1,
+                "name":"Cheesecake",
+                "image":"cheesecake.jpg",
+                "price":11.75
+            }, 
+            {
+                "id":2,
+                "name":"Cookie",
+                "image":"cookie2.jpg",
+                "price":10.75
+            }
+        ]
+    }
+]

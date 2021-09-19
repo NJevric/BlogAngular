@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "title":"Fruit Pizza",
+        "text":"The jumbo sugar cookie is intentionally underbaked so it stays nice and soft and doughy (SAY NO MORE I am here for this).  It’s topped with a cream cheese frosting – repeat: cream cheese frosting – and then it’s decorated with juicy, colorful fruit in a meticulous rainbow pattern. You guys know I give zero anythings about fancy-looking food. I am an anti-food-decorator. Just put it all in a bowl and give me a fork. That is my motto. But this might be my one exception. It’s not actually hard at all – you just layer the fruit slices in a pretty pattern, and I swear, people will think you are straight-up Martha Stewart. Including yourself. And somehow that soft-baked sugar cookie + cream cheese frosting combo does, in fact, taste better when the sliced fruit on top is just a little prettier. You better be grammin this moment. This fruit pizza is strangely popular with the guys in my family – like, all of them are obsessed? – and I don’t know if that has to do with the underbaked sugar cookie crust, or the cream cheese frosting layer, or the fact that it has just the right amount of Midwestern retro to it?",
+        "date":"2020/03/03",
+        "image":"fruitPizza.jpg"
+    },
+    {
+        "id":2,
+        "title":"Chicken Meatballs",
+        "text":"I’m not a meatball lover, but I LOVE THESE MEATBALLS. These baked chicken meatball bites can go with spaghetti and meatballs, baked rigatoni, or any pasta for that matter. They can be served with mashed cauliflower and green beans (my current favorite), or saved for quick and healthy lunch meal prep with roasted veggies. Half of the batch can be tossed with buffalo sauce and half can be frozen for next week’s Swedish meatball dinner. I don’t memorize many recipes – I have the magic green sauce, soft chocolate chip cookies, and wild rice soup burned into my brain, but that’s about it. THAT BEING SAID, this baked chicken meatball recipe is absolutely a memorize-the-general-concept-and-make-it-anytime type of situation. See? Anytime. I told you I was serious about that part.",
+        "date":"2020/03/01",
+        "image":"balls.jpg"
+    },
+    {
+        "id":3,
+        "title":"Sunday Chili",
+        "text":"It’s thick and appropriately chunky, spicy and extremely flavorful without being hot, balanced just right between meat, beans, and vegetables, and excellently scoopable (what else is chili for, really). And not to mention it does that chili magic thing where it GETS BETTER AS LEFTOVERS. Bless it. The toppings – do we even need to discuss? – are a heavenly salad bar of possibilities. Avocado, cotjia cheese, cheddar cheese, cilantro, green onion, red onion, sour cream, crushed tortilla chips, crumbled corn bread, Fritos if you’re classy… yes, yes, and yes. As you know, I’m currently obsessed with one-ingredient socca, and I think the golden/crispy/bready texture makes it a great dipper with this chili. But there’s always the miracle no-knead bread for something a little more crusty, hot, buttery, and traditional.",
+        "date":"2020/02/03",
+        "image":"chill.jpg"
+    },
+    {
+        "id":4,
+        "title":"Chocolate Chip Cookies",
+        "text":"All the good cookie eaters of the world!We were made for such a time as this.These cookies are soft, thick, bricks of chocolate chunks and buttery dough baked into a heavy, milk-loving cookie that is my most favorite chocolate chip cookie of all time. So where were we? I think we were about to count the number of cookies I’ve eaten as I’ve refined this recipe, which is approximately $&@^!# (censored). I’ve always loved that old Perfect Chocolate Chip Cookie recipe, but I’ve always kind of been annoyed about it, too. Like why does it need to melt only half of the butter? Does it really not work to melt ALL of it? And why does it need the spoonful of brown sugar? Or does it? Sheesh, how annoying is the person who wrote that recipe anyway? *WOOPS* Now for the good news! I replicated the ULTRA THICK, ULTRA SOFT texture (it called for bold, right?) and maybe even improved the flavor with this version that is similar, but way easier and more sensible than the original. And by sensible, I mean… just… like, lazy sensible, okay? I don’t mean THAT kind of sensible. You might need to start looking for another blog if you need your cookies to be sensible. There is nothing sensible about this beautiful sugar and butter perfection.",
+        "date":"2020/01/03",
+        "image":"cookie.jpg"
+    }
+]
